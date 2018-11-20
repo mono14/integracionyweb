@@ -1,0 +1,15 @@
+com\helloworld\apispring\controller\settings\CORSFilter.class
+com\helloworld\apispring\controller\Controlador.class
+com\helloworld\apispring\controller\SessionViajes.class
+com\helloworld\apispring\model\dao\RepositorioPrueba.class
+com\helloworld\apispring\controller\settings\RestInitializer.class
+com\helloworld\apispring\hibernateUtil\HibernateUtil.class
+com\helloworld\apispring\controller\settings\InitConfiguration.class
+com\helloworld\apispring\model\entity\Viajes.class
+com\helloworld\apispring\model\dao\RepositorioReservas.class
+com\helloworld\apispring\model\entity\Usuarios.class
+com\helloworld\apispring\model\entity\Reservas.class
+com\helloworld\apispring\controller\EjemploServicio.class
+com\helloworld\apispring\model\dao\RepositorioViajes.class
+com\helloworld\apispring\controller\SessionUsuario.class
+com\helloworld\apispring\controller\SessionReservas.class
